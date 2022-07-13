@@ -1,36 +1,36 @@
 # Project Name
-> Outline a brief description of your project.
+> The Lending Club case study to analyse the defaulter prediction. 
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [General Info](The EDA analysis)
+* [Technologies Used](The python is used for the analysis )
+* [Conclusions](The prediction for Ledning money for the new applicant )
+* [Acknowledgements](The Defaulter ratio is predictated)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The case study is based on the Lending club to decide the approval of new loan for the applicant based on the dataset .
+- Trying to predict the defaulter and make the analysis of the defaulter various factors affecting the loan repayment
+- Loan dataset is used for the case study
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
+- Defaulter rate increase with the term and interest rate increase
+- The No of Account and Annual income is not helping to decide the Defaulter .
+- The Loan distribution with respect to the Grade will give an idea of amount lended to borrower
 - Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- matplotlib.pyplot
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
